@@ -9,6 +9,10 @@
 # netbeans project files
 nbproject
 
+# docker local sql
+/docker/sql
+/docker/sql/*
+
 # zend studio for eclipse project files
 .buildpath
 .project
